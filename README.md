@@ -1,1 +1,1 @@
-Update #7 to README.md in Password-Strength-Cheaker
+Update #8 to README.md in Password-Strength-Cheaker
